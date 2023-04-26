@@ -16,17 +16,8 @@ body  {
     display: flex;
     align-items: center;
     justify-content: center;
-
-    position: relative;
 }
 
-.opaque-overlay  {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-}
 
 .quotes-container  {}
 
@@ -54,5 +45,18 @@ body  {
 
 .jumbotron small  {
     font-style: italic;
+}
+
+/* Buttons */
+
+.btn--call-to-action  {
+    font-weight: bold;
+    width: 160px;
+}
+
+.btn--red  {
+    color: white;
+    background-color: #f01c1c;
+    border-color: #f01c1c;
 }
 
