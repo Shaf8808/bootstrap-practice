@@ -47,12 +47,25 @@ body  {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(45, 44, 44, 0.5);
+    background-color: rgba(6, 95, 107, 0.5);
 }
 
 .navbar-phrase  {
     color: #fff;
 }
+
+.navbar .navbar-toggler  {
+    border: 0;
+}
+
+.navbar-brand  {
+    font-size: xx-large;
+}
+
+.navbar .navbar-nav a  {
+    font-size: x-large;
+}
+
 
 /* Jumbotron */
 
