@@ -157,6 +157,10 @@ body  {
     border-color: black;
 }
 
+
+/* Features section */
+
+
 .feature  {
     text-align: center;
     margin-bottom: 40px;
@@ -175,5 +179,11 @@ body  {
     font-weight: bold;
     margin-top: 10px;
     color: #f05f40;
+}
+
+/* Table */
+
+.table  {
+    margin-top: 25px;
 }
 
