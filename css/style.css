@@ -7,7 +7,7 @@ body  {
 .callout-container  {
     height: 100vh;
 
-    background: url(../images/milkshake-background-image.jpg) no-repeat bottom right fixed; 
+    background: url(../images/milkshake-background-image.jpg) no-repeat center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -50,7 +50,7 @@ body  {
     background-color: rgba(45, 44, 44, 0.5);
 }
 
-.navbar-text  {
+.navbar-phrase  {
     color: #fff;
 }
 
